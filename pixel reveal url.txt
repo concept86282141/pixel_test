@@ -1,0 +1,6 @@
+# One image per line: IMAGE_URL | ANSWER | HINT | CATEGORY
+# HINT and CATEGORY are optional. Lines starting with # are ignored.
+
+https://cdn3.emoji.gg/emojis/Mario.png | Mario | Nintendo plumber | Games
+https://icon2.cleanpng.com/lnd/20240707/yj/a8zyd5i1a.webp | Sonic | SEGA's blue hedgehog | Games
+https://i1.sndcdn.com/artworks-GyYr9ieHm88IXqUo-yCqiHA-t500x500.jpg | Dreamybull | This clue might just be what you need | Meme
